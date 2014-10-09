@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/public/bower_components/qq/TextInput.js" />
+        <item url="file://$PROJECT_DIR$/public/bower_components/qq/Container.js" />
+        <item url="file://$PROJECT_DIR$/public/bower_components/qq/qq.js" />
+        <item url="file://$PROJECT_DIR$/public/bower_components/qq/Component.js" />
+        <item url="file://$PROJECT_DIR$/public/bower_components/qq/isEventSupported.js" />
+        <item url="file://$PROJECT_DIR$/public/bower_components/qq/Text.js" />
+        <item url="file://$PROJECT_DIR$/public/bower_components/qq/HGroup.js" />
+        <item url="file://$PROJECT_DIR$/src/index.js" />
+        <item url="file://$PROJECT_DIR$/public/init.js" />
+        <item url="file://$PROJECT_DIR$/public/bower_components/tevents/tevents.js" />
+        <item url="file://$PROJECT_DIR$/public/bower_components/qq/Application.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/public/bower_components/qq/dom/QQPComponent.js" />
+      <root url="file://$PROJECT_DIR$/public/bower_components/qq/dom/QQPComponent.js" />
+      <root url="file://$PROJECT_DIR$/public/bower_components/qq/TextInput.js" />
+      <root url="file://$PROJECT_DIR$/public/bower_components/qq/Container.js" />
+      <root url="file://$PROJECT_DIR$/public/bower_components/qq/qq.js" />
+      <root url="file://$PROJECT_DIR$/public/bower_components/qq/Component.js" />
+      <root url="file://$PROJECT_DIR$/public/bower_components/qq/isEventSupported.js" />
+      <root url="file://$PROJECT_DIR$/public/bower_components/qq/HGroup.js" />
+      <root url="file://$PROJECT_DIR$/public/bower_components/qq/Text.js" />
+      <root url="file://$PROJECT_DIR$/src/index.js" />
+      <root url="file://$PROJECT_DIR$/public/init.js" />
+      <root url="file://$PROJECT_DIR$/public/bower_components/tevents/tevents.js" />
+      <root url="file://$PROJECT_DIR$/public/bower_components/qq/Application.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
